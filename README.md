@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello There! 👋
 I am a developer who likes to code and build random stuff. 👨‍💻
 
 I have learnt CSS, JS, PYTHON & HTML.  
