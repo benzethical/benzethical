@@ -1,7 +1,9 @@
-<img width="735" height="294" alt="17790201632471041836939470412659" src="https://github.com/user-attachments/assets/c2eaaf6e-5768-4e0b-8a25-814e858256b0" />   
+
 
 <h1 align="center">🚀 About Me</h1>
-<p align="center">Hi there, I am Benz! I'm a passionate Front-End Web and Discord bots Developer. I like to code different and useful stuff. You can check out my Projects in my repositories. I can make you a proffesional and modern websites. You'll always get a quick response from me!</p>
+<p align="left">I am a front-end web developer with experience in HTML, CSS, JavaScript, and Python. I enjoy building modern, responsive, and user-friendly websites while continuously improving my programming and problem-solving skills. I have a strong interest in technology, design, and creativity, which allows me to combine both technical and artistic skills in my work.
+Alongside web development, I work in graphic design, video editing, and digital art. I create visual content, edit videos, design graphics, and work on creative projects with attention to detail and aesthetics. I also have experience as a music artist and enjoy exploring music production and creative audio projects.
+I am passionate about learning new technologies, improving my skills, and working on projects that help me grow as both a developer and a creative artist.</p>
 
 <h1 align="center">📩 Contact </h1>
 <p align="left">If you want to report a bug or Hire me, You can contact me through Discord or Email.<br><br>Email: benzdevpk@gmail.com<br>
