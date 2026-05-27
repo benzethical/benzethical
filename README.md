@@ -8,4 +8,4 @@
 - View my Web Profile on <a href="https://wspbenz.github.io/profile">profile.benzify.me</a> 💼
 
 <h2 align="left">👨‍💻 Skills </h2>
-<img src = "" alt="css">
+<img width = "50px", src = "https://github.com/wspbenz/wspbenz/blob/main/css-logo.png" alt="css">
