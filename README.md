@@ -5,7 +5,7 @@
 
 <h2 align="left">Find Me Around The Web 🌎: <img align="right" width="150" height="150" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a></h2>
 - Join me on <a href="https://discord.gg/9Ym5ksXN4">Discord</a> 📹<br>
-- View my Web Profile on <a href="https://wspbenz.github.io/profile">profile.benzify.me</a> 💼<br>
+- View my Web Profile on <a href="[https://wspbenz.github.io/profile](https://wspbenz.github.io/portfolio/)">profile.benzify.me</a> 💼<br>
 - Email me at <a href="mailto:benzdevpk@gmail.com">benzdevpk@gmail.com</a> ✉️
 
 <h2 align="left">👨‍💻 Skills </h2>
