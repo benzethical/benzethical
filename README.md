@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://raw.githubusercontent.com/spydirbyte/spydirbyte/main/assets/banner-photo.svg" width="100%" alt="SPYDIRBYTE">
+
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=2500&pause=1200&color=4ADE9C&center=true&vCenter=true&width=560&lines=we+are+anonymous.+we+are+legion.;we+do+not+forgive.+we+do+not+forget.;hacktivist;web+and+software+developer;engineer" alt="typing banner">
   
 </div>  
