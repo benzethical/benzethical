@@ -14,6 +14,7 @@ Anon Collective Since 2026. I spend my time breaking systems the right way so th
 
 ```
 root@sudobenz:~$ whoami
+[+] anon collective since 2026
 [+] web & software developer
 [+] ethical Hacker & cyberSecurity enthausiast
 [+] red team, adversary simulation, vuln research
