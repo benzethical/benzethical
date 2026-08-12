@@ -15,7 +15,7 @@ root@sudobenz:~$ whoami
 [+] anon collective since 2026
 [+] web & software developer
 [+] hacker
-[+] red team, adversary simulation, vuln research
+[+] privacy is a right
 [+] information belongs to everyone
 ```
 ### 0x02 // Skills
